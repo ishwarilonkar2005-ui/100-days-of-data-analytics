@@ -50,3 +50,5 @@ where (first_name='leslie' and age= 44) or age>55;
 select *
 from employee_demographics
 where birth_date like '1989%';
+
+
