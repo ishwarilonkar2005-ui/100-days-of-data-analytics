@@ -10,6 +10,7 @@ To practice Data Analytics daily and build a strong portfolio using:
 - SQL
 - Power BI
 - Python
+- AWS
 - Data Visualization
 - Data Cleaning
 
