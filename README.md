@@ -35,6 +35,10 @@ Files:
 - Aggregate Functions
 - Subqueries
 - Power BI Dashboards
+  
+  ## Practice Databases
+
+- Parks and Recreation Database
 
 ## Connect With Me
 LinkedIn: Ishwari Lonkar
