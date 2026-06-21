@@ -16,6 +16,13 @@ To practice Data Analytics daily and build a strong portfolio using:
 
 ## Progress
 
+# 100 Days of Data Analytics
+
+## About
+This repository contains my daily Data Analytics practice and learning journey.
+
+## Progress
+
 ### Day 1
 Topics Covered:
 - SELECT Statement
@@ -24,8 +31,12 @@ Topics Covered:
 - OR Operator
 - NOT Operator
 
+Database Used:
+- Parks and Recreation Database
+
 Files:
-- select statement practice.sql
+- SQL/Day01_SELECT_WHERE_AND_OR_NOT.sql
+- Datasets/Parks_and_Rec_Create_db.sql
 
 ## Upcoming Topics
 - ORDER BY
