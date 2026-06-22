@@ -31,11 +31,17 @@ Topics Covered:
 - OR Operator
 - NOT Operator
 
+### Day 2 
+- Group By
+- Order By
+- Having
+
 Database Used:
 - Parks and Recreation Database
 
 Files:
 - SQL/Day01_SELECT_WHERE_AND_OR_NOT.sql
+- SQL/ DAY 02_Group_by_Having.sql
 - Datasets/Parks_and_Rec_Create_db.sql
 
 ## Upcoming Topics
